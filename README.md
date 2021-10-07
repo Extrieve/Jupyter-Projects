@@ -1,2 +1,6 @@
 # Jupyter Projects
- Repo for general jupyter notebooks and projects.
+ Repository for Jupyter Notebooks and related projects.
+ - PyTorch
+ - Pandas
+ - NumPy
+ - APIs
